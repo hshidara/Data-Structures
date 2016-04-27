@@ -4,5 +4,5 @@ Programming Languages used:
     Python 3
     
 Includes:
-    Stack
-    Queue
+    Stacks \n
+    Queues
